@@ -18,8 +18,10 @@
 
 перевірка папки на наявність файлів
 
+![image](https://user-images.githubusercontent.com/86048678/122383944-ed0a5c80-cf73-11eb-9094-9edc2e94c4fa.png)
 
-![image](https://user-images.githubusercontent.com/86048678/122382907-05c64280-cf73-11eb-8b0a-b5b1fe6ec878.png)
+![image](https://user-images.githubusercontent.com/86048678/122384035-feebff80-cf73-11eb-958e-58a426bdf54f.png)
+U
 
 
 спочатку додав а потім перевірив незбережені файли
