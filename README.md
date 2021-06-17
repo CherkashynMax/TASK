@@ -30,3 +30,8 @@ U
 ![image](https://user-images.githubusercontent.com/86048678/122383445-7ff6c700-cf73-11eb-9086-bfe53405ec5f.png)
 ![image](https://user-images.githubusercontent.com/86048678/122383578-a0268600-cf73-11eb-91ba-bbc4f6cbf988.png)
 
+
+Написання програми
+
+
+![image](https://user-images.githubusercontent.com/86048678/122384446-5ee2a600-cf74-11eb-844c-00fbcbfd7e5d.png)
