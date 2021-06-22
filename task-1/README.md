@@ -8,8 +8,12 @@
 
 Створив папку Task-1 і добавляю в неї файл README.md
 
+![image](https://user-images.githubusercontent.com/86048678/122921180-de081d80-d36a-11eb-8651-affd8e6fe640.png)
+
 Роблю коміт і пушу
 
-Пуш файла task1.py
+![image](https://user-images.githubusercontent.com/86048678/122921306-fed07300-d36a-11eb-822a-3ec6b2194695.png)
+
+
 
 
