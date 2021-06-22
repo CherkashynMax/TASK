@@ -6,12 +6,8 @@
 
 ![image](https://user-images.githubusercontent.com/86048678/122917866-2a515e80-d367-11eb-84c4-a60c0d380181.png)
 
-Створюю папку Task-1 і добавляю в неї файл README.md
-
-
+Створив папку Task-1 і добавляю в неї файл README.md
 Роблю коміт і пушу
-
-
-Пуш файла task1.py
+Пуш файла Task1.py
 
 
